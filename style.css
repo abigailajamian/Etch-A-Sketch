@@ -1,0 +1,7 @@
+.board {
+    width: 500px;
+    height: 500px;
+   /* display: grid;*/
+    color: #000080;
+    background-color: #E0E0E0;
+}
